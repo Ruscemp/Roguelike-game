@@ -1,0 +1,15 @@
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\bin\Debug\net6.0\Rougelike.exe
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\bin\Debug\net6.0\Rougelike.deps.json
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\bin\Debug\net6.0\Rougelike.runtimeconfig.json
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\bin\Debug\net6.0\Rougelike.dll
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\bin\Debug\net6.0\Rougelike.pdb
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\obj\Debug\net6.0\Rougelike.csproj.AssemblyReference.cache
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\obj\Debug\net6.0\Rougelike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\obj\Debug\net6.0\Rougelike.AssemblyInfoInputs.cache
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\obj\Debug\net6.0\Rougelike.AssemblyInfo.cs
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\obj\Debug\net6.0\Rougelike.csproj.CoreCompileInputs.cache
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\obj\Debug\net6.0\Rougelike.dll
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\obj\Debug\net6.0\refint\Rougelike.dll
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\obj\Debug\net6.0\Rougelike.pdb
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\obj\Debug\net6.0\Rougelike.genruntimeconfig.cache
+C:\Users\rusce\Desktop\Folder\Utbildning\NTI\KomvuxArbete\Rougelike\obj\Debug\net6.0\ref\Rougelike.dll
